@@ -49,7 +49,7 @@ Clone the repository on Linux:
 
 ```bash
 cd ~
-git clone --recursive https://github.com/daniellwdb/dotfiles.git
+git clone --recursive https://github.com/jlorezz/dotfiles.git
 cd dotfiles
 ```
 
