@@ -34,7 +34,7 @@ install_zsh_plugins() {
 CONFIG_PACKAGES=(atuin nushell nvim starship tmux)
 
 # WSL only - goes to ~/
-HOME_PACKAGES=(zsh)
+HOME_PACKAGES=(zsh claude)
 
 # Windows only - symlink to Windows .config
 WINDOWS_PACKAGES=(wezterm)
